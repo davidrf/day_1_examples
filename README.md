@@ -4,8 +4,10 @@ To start saving work through git
 
 Every time you complete work do:
 
-`git add -A`
-`git commit`
+```
+git add -A
+git commit
+```
 
 To start a github repository:
 
